@@ -1,7 +1,7 @@
 # TortaHolandesa
 A game about the magical and brazilian dessert
 
-- FEATURES -
+FEATURES:
 ♠ You are Babyphomet and you must collect the ingredients for the perfect Torta Holandesa
 ♣ Changeable timer and ingredient count variables
 ♦ Jump variation - hold the button for a higher jump, tap it for a shorter one.
